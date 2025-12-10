@@ -1,0 +1,11 @@
+/* Home.css */
+/* Home.css */
+
+/* Container for the whole page */
+.home-container {
+  background-color: rgb(203, 203, 214);
+  padding: 60px;
+  /* max-width: 1200px; */
+  margin: 0 auto;
+}
+

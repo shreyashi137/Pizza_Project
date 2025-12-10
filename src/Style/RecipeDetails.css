@@ -1,0 +1,7 @@
+.content-wrapper {
+  padding: 100px 20px 20px 20px; /* top padding to avoid fixed navbar overlap */
+}
+
+.page-wrapper {
+  padding-top: 20px;
+}
