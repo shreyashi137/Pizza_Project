@@ -3,7 +3,8 @@ import "../Style/Footer.css"
 import Instagram from "@mui/icons-material/Instagram"
 import Facebook from "@mui/icons-material/Facebook"
 import Twitter from "@mui/icons-material/Twitter"
-import LinkedIn from "@mui/icons-material/Linkedin"
+import LinkedInIcon from "@mui/icons-material/LinkedIn";
+
 function Footer()  {
     return   (
         <div className="Footer">
@@ -11,7 +12,7 @@ function Footer()  {
             <Instagram/>
             <Facebook/>
             <Twitter/>
-            <LinkedIn/>
+            <LinkedInIcon/>
            </div>  
             <p>@Copy:2025 Shantakanta.com</p>
         </div>
